@@ -27,7 +27,7 @@ Receiveing multiple warnings will result in either a suspension of you editing a
 
 Use Respectful Language: Whether inside or outside of this repository, using respectful language is imperitive to creating a safe 
 and professional workspace for all. Any foul language used inside of the project itself will be removed and you will reveive a warning. 
-Any foul language used to other contributers, will result in either a suspension of your editing acces or complete removal from the projct. 
+Any foul language used to other contributers, depending on severity and frequency, will result in either a suspension of your editing acces or complete removal from the projct. 
 Please keep this workspace professional and safe for all contributers. 
 
 
